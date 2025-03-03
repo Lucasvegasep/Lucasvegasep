@@ -1,11 +1,11 @@
-👋 HOLA!!!!, Soy Lucas Alejandro Vega Sepúlveda
+👋 HELLO!!!!, I am Lucas Alejandro Vega Sepúlveda
 
- 👀 Estoy interesando en crear por primera vez mi página Git, con el objetivo de demostrar mis proyectos actuales y futuros!!
- 🌱 Actualmente estoy profundizando mis conocimientos en programación con distintos lenguajes, por mi formación en Ingeniería civil industrial,
-     tengo conocimientos a nivel junior y básico de lenguajes como (R, C++, Vb, Phyton y DAX) pero estoy profundizando para poder integrar esos conocimientos con mis
-     competencias en el área de gestión de proyectos TI. ⚡⚡⚡
+ 👀 I'm interested in creating my first Git page, to demonstrate my current and future projects!!
+ 🌱 I am currently deepening my knowledge in programming with different languages, due to my training in Industrial Civil Engineering,
+I have junior and basic knowledge of languages ​​such as (R, C++, Vb, Python, and DAX) but I am deepening my knowledge to be able to integrate this knowledge with my
+skills in the area of ​​IT project management. ⚡⚡⚡
  
- 💞️ Me gustaría colaborar en equipos de desarrollo de software, en particular en proyectos globales y multidisciplinarios.
- 📫 Me pueden escribir a Lucas.vega@ingenierosdelsur.com o lvegas@ing.ucsc.cl
+ 💞️ I would like to collaborate in software development teams, particularly in global and multidisciplinary projects.
+ 📫 You can reach me at Lucas.vega@ingenierosdelsur.com or lvegas@ing.ucsc.cl
 
- 😄 Sobre mi: Me gustan los animales y tengo 3 gatos (Rulfo, luna y poppy) 
+ 😄 About me: I like animals and I have 3 cats (Rulfo, Luna and Poppy)
